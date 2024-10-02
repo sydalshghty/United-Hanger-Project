@@ -1,0 +1,28 @@
+:root{
+    --background-footer: #07934b;
+    --color-text-footer: #ffffff;
+}
+.footer-departament{
+    width: 100%;
+    background-color: var(--background-footer);
+    height: 120px;
+}
+.footer-departament p{
+    color: var(--color-text-footer);
+    padding-top: 40px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 300;
+}
+@media (max-width: 768px){
+    .footer-departament p{
+        padding-left: 20px;
+        padding-right: 20px;
+        line-height: 1.6;
+    }
+}
+@media (max-width: 620px){
+    .footer-departament{
+        margin-top: 40px;
+    }
+}

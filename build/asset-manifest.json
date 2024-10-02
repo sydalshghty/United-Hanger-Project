@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/United-Hanger-Project/static/css/main.fa5ad650.css",
+    "main.js": "/United-Hanger-Project/static/js/main.0aee0d85.js",
+    "static/media/home (15).png": "/United-Hanger-Project/static/media/home (15).fe27b2ef45747f1b75d2.png",
+    "static/media/home (14).png": "/United-Hanger-Project/static/media/home (14).2c75931afc3b6d9aef6c.png",
+    "static/media/home (21).png": "/United-Hanger-Project/static/media/home (21).3b88620ec1d892b31be4.png",
+    "static/media/home (13).png": "/United-Hanger-Project/static/media/home (13).24ec01c6c92886b1dbe9.png",
+    "static/media/home (16).png": "/United-Hanger-Project/static/media/home (16).afe9e6b32114d63f489b.png",
+    "static/media/home (17).png": "/United-Hanger-Project/static/media/home (17).98a82210410bd1f2208a.png",
+    "static/media/home__18_-removebg-preview.png": "/United-Hanger-Project/static/media/home__18_-removebg-preview.2a827a9f2c2bcacc3dc0.png",
+    "static/media/Vector Smart Object-ai (1)-svg (1).svg": "/United-Hanger-Project/static/media/Vector Smart Object-ai (1)-svg (1).3116a0592b747eb1dc126fa81ed9acd0.svg",
+    "index.html": "/United-Hanger-Project/index.html",
+    "main.fa5ad650.css.map": "/United-Hanger-Project/static/css/main.fa5ad650.css.map",
+    "main.0aee0d85.js.map": "/United-Hanger-Project/static/js/main.0aee0d85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5ad650.css",
+    "static/js/main.0aee0d85.js"
+  ]
+}
